@@ -3,7 +3,7 @@
 **【关于我们】**
 
 * [Articulate v1.0](https://mp.weixin.qq.com/s/0yqGBPbOI6QxHqK17WxU8Q)
-* [Articulate v2.0 待定.......]()
+* [Articulate v2.0](https://mp.weixin.qq.com/s/V5Axn-ZWi22ubh5Jiocb9g)
 
 [![](https://img.shields.io/badge/GitHub-zrf--rocket-blue?logo=gitpod)](https://github.com/zrf-rocket)
 [![](https://img.shields.io/badge/Gitee-SteveRocket-pink)](https://gitee.com/SteveRocket/)
@@ -76,6 +76,10 @@
     * GitHub：https://github.com/zrf-rocket/EDR_SOC
     * Gitee：https://gitee.com/SteveRocket/edr_soc
 
+* [安全运营中心（SOC）-信息资产采集与安全评估系统（ICSA）](https://github.com/zrf-rocket/SOC_ICSA)
+    * GitHub：https://github.com/zrf-rocket/SOC_ICSA
+    * Gitee：https://gitee.com/SteveRocket/SOC_ICSA
+
 * [DevSecOps-SDLC](https://github.com/zrf-rocket/DevSecOps-SDLC)
     * GitHub：https://github.com/zrf-rocket/DevSecOps-SDLC
     * Gitee：https://gitee.com/SteveRocket/dev-sec-ops-sdlc
@@ -85,12 +89,25 @@
     * [基于AI图像识别的智能缺陷检测系统，在钢铁行业的应用-技术方案](https://mp.weixin.qq.com/s/dSHbnuOwQZzE4CvPr1JYjg)
 
 # CookBook
-基于Python 3.11新特性的CookBook
+
+基于Python 3.11新特性的CookBook，以及各种编程语言的CookBook代码示例。
+
+本项目Gitee工程地址：https://gitee.com/SteveRocket/cook-book  
+本项目Github工程地址：https://github.com/zrf-rocket/CookBook  
 
 #### 介绍
+
 * Python Cookbook 4th
 * Django ORM CookBook 4th
 * Django Admin CookBook 4th
 * Flask CookBook 4th
-* Django ORM CookBook 4th
-* Django Admin CookBook 4th
+* RUST CookBook 4th
+* JavaScript CookBook 4th
+
+
+<img src="./static/qq_link.png" style="width:200px"><br>
+**< QQ技术交流群 >**
+
+
+<img src="./static/wechat.jpg" style="width:200px"><br>
+**< 联系作者 >**
